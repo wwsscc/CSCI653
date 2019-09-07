@@ -13,8 +13,8 @@ Perceptually Important Points
 
 # Expected Results
 
-Purchasing stock when price above neckline and sell at the end, expected results will show loss.
-Purchasing stock when price above neckline but sell when the price of stock falls below the highest. Expected results will show profit.
+1. Purchasing stock when price above neckline and sell at the end, expected results will show loss.
+2. Purchasing stock when price above neckline but sell when the price of stock falls below the highest. Expected results will show profit.
 
 # References
 
