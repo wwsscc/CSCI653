@@ -11,6 +11,10 @@ In this project, I plan to use this investment strategies on day trading. All st
 Genetic Algorithm
 Perceptually Important Points
 
+# Five Patterns
+
+
+
 # Expected Results
 
 1. Purchasing stock when price above neckline and sell at the end, expected results will show loss.
