@@ -3,8 +3,7 @@
 
 As pattern recognition in stock time series has attracted the attention, technical analysts and traders believe that patterns and shapes could be used to find profitable trading opportunities.
 
-In this project, I plan to use this investment strategies on day trading. All stocking price data are real market price. Based on the five special patterns, this project will use parallel computing to accelerate recognizing the pattern. 
-
+In this project, I plan to use this investment strategies on day trading. All stocking price data are real market price. Based on the five special patterns, Main focus is to recognize patterns and determine the neckline stock time series data. This time series data is per minute stock prices for seven (7) days.
 
 # Methods
 
