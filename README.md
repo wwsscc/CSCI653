@@ -12,8 +12,8 @@ Genetic Algorithm
 Perceptually Important Points
 
 # Five Patterns
-
-
+![Image of Patterns](https://github.com/wwsscc/CSCI653/blob/master/WechatIMG3.jpeg)
+![Image of Pattern](https://github.com/wwsscc/CSCI653/blob/master/WechatIMG4.jpeg)
 
 # Expected Results
 
