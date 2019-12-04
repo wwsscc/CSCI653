@@ -13,6 +13,12 @@ Perceptually Important Points
 # Five Patterns
 ![Image of Patterns](https://github.com/wwsscc/CSCI653/blob/master/WechatIMG3.jpeg)
 ![Image of Pattern](https://github.com/wwsscc/CSCI653/blob/master/WechatIMG4.jpeg)
+# Tested
+1. Test accuracy for single pattern
+![Image of Patterns](https://github.com/wwsscc/CSCI653/blob/master/WechatIMG5.jpeg)
+2. Test multiple patterns
+![Image of Patterns](https://github.com/wwsscc/CSCI653/blob/master/WechatIMG6.jpeg)
+![Image of Patterns](https://github.com/wwsscc/CSCI653/blob/master/WechatIMG7.jpeg)
 
 # Expected Results
 
