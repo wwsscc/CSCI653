@@ -1,4 +1,4 @@
-# CSCI653
+# CSCI653 Pattern Recognition in Day Trading
 # Introduction
 
 As pattern recognition in stock time series has attracted the attention, technical analysts and traders believe that patterns and shapes could be used to find profitable trading opportunities.
